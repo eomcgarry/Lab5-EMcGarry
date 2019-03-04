@@ -23,7 +23,7 @@ body {
 #ptable {
 	font-family: 'ZCOOL QingKe HuangYou', cursive;
 	font-size: 15px;
-	position: center;
+	text-align: center;
 	border-style: double;
 	border: 1px #191970;
 	background-color: rgba(255, 255, 255, 0.6);

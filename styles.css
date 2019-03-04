@@ -3,8 +3,28 @@ By Ethan McGarry
 Written for ITMD-361-01
 */
 
-tophead {
+/*Formattingfor top h1*/
+#tophead {
 	font-family: 'Space Mono', monospace;
 	font-size: 80px;
-	vertical-align: center;
+	font: #191970;
+	text-align: center;
+}
+
+/*Formatting for div that wraps table*/
+#tableframe {
+	border-style: double;
+	border: 1px #191970;
+}
+
+/*Formatting for planet table*/
+#ptable {
+	font-family: 'ZCOOL QingKe HuangYou', cursive;
+}
+
+/*Formatting for source in footer*/
+#source {
+	font-family: 'Space Mono', monospace;
+	font-size: 30px;
+	text-align: center;
 }

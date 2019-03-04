@@ -12,7 +12,7 @@ Written for ITMD-361-01
 }
 
 /*Formatting for div that wraps table*/
-#tableframe {
+body {
 	border-style: double;
 	border: 1px #191970;
 	margin: auto;
@@ -25,6 +25,11 @@ Written for ITMD-361-01
 #ptable {
 	font-family: 'ZCOOL QingKe HuangYou', cursive;
 	font-size: 15px;
+}
+
+th {
+	font-family: 'ZCOOL QingKe HuangYou', cursive;
+	font-size: 20px;
 }
 
 /*Formatting for source in footer*/

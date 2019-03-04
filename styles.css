@@ -15,16 +15,21 @@ Written for ITMD-361-01
 #tableframe {
 	border-style: double;
 	border: 1px #191970;
+	margin: auto;
+	background-image: url(img/hubble.jpg);
+	background-position: center;
+	background: 100%;
 }
 
 /*Formatting for planet table*/
 #ptable {
 	font-family: 'ZCOOL QingKe HuangYou', cursive;
+	font-size: 30px;
 }
 
 /*Formatting for source in footer*/
 #source {
 	font-family: 'Space Mono', monospace;
-	font-size: 30px;
+	font-size: 20px;
 	text-align: center;
 }

@@ -3,7 +3,7 @@ By Ethan McGarry
 Written for ITMD-361-01
 */
 
-p, h1 {
+tophead {
 	font-family: 'Space Mono', monospace;
 	font-size: 80px;
 	vertical-align: center;

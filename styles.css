@@ -6,8 +6,8 @@ Written for ITMD-361-01
 /*Formattingfor top h1*/
 #tophead {
 	font-family: 'Space Mono', monospace;
-	font-size: 80px;
-	font: #191970;
+	font-size: 70px;
+	color: #191970;
 	text-align: center;
 }
 
@@ -18,18 +18,18 @@ Written for ITMD-361-01
 	margin: auto;
 	background-image: url(img/hubble.jpg);
 	background-position: center;
-	background: 100%;
+	width: 100%;
 }
 
 /*Formatting for planet table*/
 #ptable {
 	font-family: 'ZCOOL QingKe HuangYou', cursive;
-	font-size: 30px;
+	font-size: 15px;
 }
 
 /*Formatting for source in footer*/
 #source {
 	font-family: 'Space Mono', monospace;
-	font-size: 20px;
+	font-size: 10px;
 	text-align: center;
 }
